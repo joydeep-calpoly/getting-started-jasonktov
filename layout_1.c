@@ -14,7 +14,7 @@ int main(void)
 {
    int first = 357;
    int second = 0;
-
+	int third = 21;
    start();
 
    function_one(first);
